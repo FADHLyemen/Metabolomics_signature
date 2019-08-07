@@ -4,4 +4,4 @@ We want to cluster patients based on their metabolome profiles, then assign sign
 We will implement the below pipeline:
 ![Image description](./Capture.PNG)
 The whole process is in the below Jupyter notebook:
-https://github.com/FADHLyemen/Metabolomics_signature/blob/master/Metabolomics_signature.ipynb
+https://nbviewer.jupyter.org/github/FADHLyemen/Metabolomics_signature/blob/master/Metabolomics_signature.ipynb
