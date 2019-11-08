@@ -13,3 +13,11 @@ https://nbviewer.jupyter.org/github/FADHLyemen/Metabolomics_signature/blob/maste
 
 dataset2 using k=3:
 https://nbviewer.jupyter.org/github/FADHLyemen/Metabolomics_signature/blob/master/notebook/Notebook%20data2/Metabolomics_signature-v1_kmeans_pam_data2.ipynb
+
+dataset1:
+
+https://ars.els-cdn.com/content/image/1-s2.0-S1874391913005113-mmc2.xls
+
+dataset2:
+
+https://dm5migu4zj3pb.cloudfront.net/manuscripts/71000/71180/JCI71180sd2.xlsx
